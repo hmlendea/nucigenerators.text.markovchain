@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F19D94C7-DD33-4F2E-B175-7CFE9108B33B}") = "NuciGenerators.Text.MarkovChain", "NuciGenerators.Text.MarkovChain\NuciGenerators.Text.MarkovChain.csproj", "{9190F322-58C9-4820-B8FF-73E20D90FEA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9190F322-58C9-4820-B8FF-73E20D90FEA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9190F322-58C9-4820-B8FF-73E20D90FEA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9190F322-58C9-4820-B8FF-73E20D90FEA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9190F322-58C9-4820-B8FF-73E20D90FEA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA59B4AE-47B1-477E-9DFD-BB50CA02D2C1}
+	EndGlobalSection
+EndGlobal
