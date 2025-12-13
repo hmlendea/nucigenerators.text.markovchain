@@ -1,3 +1,3 @@
-[![Build Status](https://github.com/hmlendea/nucigenerators.text.markovchain/actions/workflows/dotnet.yml/badge.svg)](https://github.com/hmlendea/nucigenerators.text.markovchain/actions/workflows/dotnet.yml) [![Latest GitHub release](https://img.shields.io/github/v/release/hmlendea/nucigenerators.text.markovchain)](https://github.com/hmlendea/nucigenerators.text.markovchain/releases/latest)
+[![Donate](https://img.shields.io/badge/-%E2%99%A5%20Donate-%23ff69b4)](https://hmlendea.go.ro/fund.html) [![Build Status](https://github.com/hmlendea/nucigenerators.text.markovchain/actions/workflows/dotnet.yml/badge.svg)](https://github.com/hmlendea/nucigenerators.text.markovchain/actions/workflows/dotnet.yml) [![Latest GitHub release](https://img.shields.io/github/v/release/hmlendea/nucigenerators.text.markovchain)](https://github.com/hmlendea/nucigenerators.text.markovchain/releases/latest)
 
 # nucigenerators.text.markov
