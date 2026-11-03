@@ -117,6 +117,10 @@ NuciGenerators.Text.MarkovChain follows coordinated disclosure for vulnerabiliti
 
 This project follows the [Code of Conduct](./CODE_OF_CONDUCT.md).
 
+## 🏗️ Architecture
+
+The library architecture is documented in [ARCHITECTURE.md](./ARCHITECTURE.md). It covers the system context, architectural style, runtime flow, components, data architecture, dependency rules, external dependencies, deployment, compatibility contracts, testing, and design constraints.
+
 ## License
 
 Licensed under the GNU General Public License v3.0 or later.
