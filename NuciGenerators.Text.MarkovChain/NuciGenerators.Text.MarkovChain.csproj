@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
     <RootNamespace>NuciGenerators.Text.MarkovChain</RootNamespace>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <Description>Markov-chain-based name generation library for .NET.</Description>
     <Authors>Horațiu Mlendea</Authors>
     <Copyright>Copyright 2026 © Horațiu Mlendea</Copyright>
@@ -15,8 +15,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="NuciExtensions" Version="5.3.1" />
-    <PackageReference Include="NuciGenerators.Text" Version="1.0.1" />
+    <PackageReference Include="NuciExtensions" Version="6.0.2" />
+    <PackageReference Include="NuciGenerators.Text" Version="1.0.2" />
   </ItemGroup>
 
 </Project>
