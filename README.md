@@ -96,17 +96,9 @@ dotnet build NuciGenerators.Text.MarkovChain.sln
 dotnet pack -c Release
 ```
 
-## Contributing
+## 🤝 Contributing
 
-Contributions are welcome.
-
-Please:
-
-- keep changes cross-platform
-- preserve public APIs unless the change is intentionally breaking
-- keep pull requests focused and consistent with existing style
-- update documentation when behaviour changes
-- add or update tests for new behaviour
+Contributions are welcome. See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on reporting issues, suggesting enhancements, submitting code changes, and following project standards.
 
 ## Related Projects
 
