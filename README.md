@@ -113,6 +113,10 @@ NuciGenerators.Text.MarkovChain does not collect, process, transmit, or persist 
 
 NuciGenerators.Text.MarkovChain follows coordinated disclosure for vulnerabilities. See [SECURITY.md](./SECURITY.md) for supported versions, reporting, scope, and disclosure policy.
 
+## 📜 Code of Conduct
+
+This project follows the [Code of Conduct](./CODE_OF_CONDUCT.md).
+
 ## License
 
 Licensed under the GNU General Public License v3.0 or later.
