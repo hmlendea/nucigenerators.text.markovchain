@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="NuciGenerators.Text.MarkovChain/NuciGenerators.Text.MarkovChain.csproj" />
+  <Project Path="NuciGenerators.Text.MarkovChain.UnitTests/NuciGenerators.Text.MarkovChain.UnitTests.csproj" />
+</Solution>
