@@ -117,6 +117,10 @@ Please:
 
 NuciGenerators.Text.MarkovChain does not collect, process, transmit, or persist personal data, analytics, diagnostics, or telemetry. The library operates entirely in memory with training data provided by the developer. See [PRIVACY.md](./PRIVACY.md) for details.
 
+## 🔒 Security
+
+NuciGenerators.Text.MarkovChain follows coordinated disclosure for vulnerabilities. See [SECURITY.md](./SECURITY.md) for supported versions, reporting, scope, and disclosure policy.
+
 ## License
 
 Licensed under the GNU General Public License v3.0 or later.
